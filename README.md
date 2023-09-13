@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 Hi, I’m a Front End Web developer who is passionate about making error-free websites. A self-learned professional web developer with more than 5 years of experience in wide areas.
 
-I have a strong grip on Html5, css3, Bootstrap, Sass, Less, Javascript, and Jquery. Also, I do user Interface and any graphics work with Adobe XD, Photoshop, and Illustrator. Over the past years, I created lots of websites for my clients with 100% client satisfaction.
+I have a strong grip on HTML5, CSS3, React JS, Tailwind, Bootstrap, Sass, Less, Javascript, and Jquery. Also, I do user Interface and any graphics work with Adobe XD, Photoshop, and Illustrator. Over the past years, I created lots of websites for my clients with 100% client satisfaction.
 
-Skills: Html5 / css3 / Bootstrap / Sass / Less / Javascript / Jquery / Wordpress / Adobe XD
+Skills: Html5 / css3 / React Js / TailwindCss / Bootstrap / Sass / Less / Javascript / Jquery / WordPress / Adobe XD
 
 - 🔭 I’m currently working on Cloud Institute (Executive Trainer) 
 
